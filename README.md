@@ -38,7 +38,7 @@ It includes the main sections you usually see in such websites, like:
 
 ## GitHub Repository
 
-[Add your GitHub repository link here]
+[ https://gururamya.github.io/Travel-Website/]
 
 ## Conclusion
 
