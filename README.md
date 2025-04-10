@@ -32,9 +32,9 @@ It includes the main sections you usually see in such websites, like:
 - Adjusted font sizes, images, and paddings for different devices.
 - Repeatedly tested the design and made improvements.
 
-## Live Demo
+## Live Demo from netlify
 
-[Add your live link here after deploying on Vercel]
+[roaring-piroshki-963a6e.netlify.app]
 
 ## GitHub Repository
 
